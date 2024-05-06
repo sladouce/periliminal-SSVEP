@@ -9,6 +9,7 @@ The preprint can be found at the following address: [https://doi.org/10.1101/202
   RESS.m computes the SSVEP responses to both the target and non-target stimuli using the Rhythmic Entrainment Source Separation (RESS) Cohen & Gulbinaite 2017 analysis [https://doi.org/10.1016/j.neuroimage.2016.11.036].
 
 The preprocessed datasets of the 24 subjects that took part in this experiment are epoched around the experimental events of the left and right cues (-4 to 7seconds) to capture the preceding 3 seconds of fixation cross, and the following 3 seconds cueing, and later target detection phases of the trials.
+Processed data can be downloaded from the following osf repository [https://osf.io/rx2fs/]
 
 
 
