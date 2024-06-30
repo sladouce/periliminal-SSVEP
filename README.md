@@ -1,7 +1,7 @@
 # periliminal-SSVEP
 Dataset and code accompanying the paper: Frequency-tagging of spatial attention using periliminal flickers
 
-The preprint can be found at the following address: [https://doi.org/10.1101/2024.02.29.582725]
+The published manuscript can be found at the following address: [https://doi.org/10.1162/imag_a_00223]
 
   preprocess.m applies the EEG signal processing pipeline used in this study (see Methods section)
 
